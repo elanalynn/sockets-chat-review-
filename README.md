@@ -1,2 +1,3 @@
 # sockets-chat-review
-Let's build a chat app collaboratively
+
+g25 Sockets Review - building a simple chat app together!
